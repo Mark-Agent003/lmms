@@ -9,6 +9,8 @@
 What is LMMS?
 --------------
 
+-THIS IS A TEST-
+
 LMMS is a free cross-platform alternative to commercial programs like
 FL Studio®, which allow you to produce music with your computer. This includes
 the creation of melodies and beats, the synthesis and mixing of sounds, and
